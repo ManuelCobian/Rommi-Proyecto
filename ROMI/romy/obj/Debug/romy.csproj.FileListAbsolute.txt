@@ -1,0 +1,22 @@
+c:\users\tammy\documents\visual studio 2013\Projects\romy\romy\bin\Debug\romy.exe.config
+c:\users\tammy\documents\visual studio 2013\Projects\romy\romy\bin\Debug\romy.exe
+c:\users\tammy\documents\visual studio 2013\Projects\romy\romy\bin\Debug\romy.pdb
+c:\users\tammy\documents\visual studio 2013\Projects\romy\romy\obj\Debug\romy.Properties.Resources.resources
+c:\users\tammy\documents\visual studio 2013\Projects\romy\romy\obj\Debug\romy.csproj.GenerateResource.Cache
+c:\users\tammy\documents\visual studio 2013\Projects\romy\romy\obj\Debug\romy.exe
+c:\users\tammy\documents\visual studio 2013\Projects\romy\romy\obj\Debug\romy.pdb
+C:\Users\Tammy\documents\visual studio 2013\Projects\romy\romy\obj\Debug\romy.Form1.resources
+C:\Users\Tammy\documents\visual studio 2013\Projects\romy\romy\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Tammy\documents\visual studio 2013\Projects\romy\romy\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Tammy\documents\visual studio 2013\Projects\romy\romy\obj\Debug\romy.frmNuevoUsuario.resources
+C:\Users\Tammy\documents\visual studio 2013\Projects\romy\romy\obj\Debug\romy.frmPrincipal.resources
+C:\Users\Tammy\documents\visual studio 2013\Projects\romy\romy\obj\Debug\romy.csprojResolveAssemblyReference.cache
+C:\Users\Luis.000\Desktop\ROMI\romy\obj\Debug\romy.csprojResolveAssemblyReference.cache
+C:\Users\Luis.000\Desktop\ROMI\romy\obj\Debug\romy.Form1.resources
+C:\Users\Luis.000\Desktop\ROMI\romy\obj\Debug\romy.frmNuevoUsuario.resources
+C:\Users\Luis.000\Desktop\ROMI\romy\obj\Debug\romy.frmPrincipal.resources
+C:\Users\Luis.000\Desktop\ROMI\romy\obj\Debug\romy.Properties.Resources.resources
+C:\Users\Luis.000\Desktop\ROMI\romy\obj\Debug\romy.csproj.GenerateResource.Cache
+C:\Users\Luis.000\Desktop\ROMI\romy\obj\Debug\romy.exe
+C:\Users\Luis.000\Desktop\ROMI\romy\obj\Debug\romy.pdb
+C:\Users\Luis.000\Desktop\ROMI\romy\bin\Debug\romy.exe.config
